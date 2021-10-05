@@ -1,0 +1,14 @@
+{
+  "name": "dashless",
+  "version": "1.0.0",
+  "description": "simple dashboard",
+  "main": "index.html",
+  "scripts": {
+    "buildcss": "tailwind build -i src/style.css -o dist/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.2.16"
+  }
+}
